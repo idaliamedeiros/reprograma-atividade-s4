@@ -1,4 +1,4 @@
-# Lógica aplicada - Estrutura de repetição, arrays, métodos e objetos.__
+# Lógica aplicada - Estrutura de repetição, arrays, métodos e objetos.
 
 O conteúdo da semana foi bastante abrangente e mais aprofundado.
 
@@ -13,4 +13,3 @@ Arrays, estrutura de dado mais simples, permite atribuir um conjunto de dados a 
 Existem métodos diversos de interação com arrays: length, push, filter, find...
 
 Por último, foram apresentadas as ferramentas Nodemon e Readline.
-
